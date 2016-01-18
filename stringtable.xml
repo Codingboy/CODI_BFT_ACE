@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="CODI_BFT_ACE">
+	<Package name="Main">
+		<Key ID="STR_CODI_BFT_ACE_itemDescription">
+			<Original>Marks units of your own side on the map to avoid friendly fire.</Original>
+			<German>Markiert Einheiten der eigenen Seite auf der Karte um freundliches Feuer zu vermeiden.</German>
+		</Key>
+	</package>
+</Project>
